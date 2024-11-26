@@ -1,0 +1,25 @@
+{
+  "name": "vitest-utility",
+  "version": "1.0.0",
+  "description": "A utility package that exports vitest and rtl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc --init"
+  },
+  "keywords": [
+    "vitest",
+    "utility"
+  ],
+  "author": "Prajwal Kulkarni",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.0.1",
+    "jsdom": "^25.0.1",
+    "vitest": "^2.1.6"
+  }
+}
