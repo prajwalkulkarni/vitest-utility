@@ -14,6 +14,8 @@
   "author": "Prajwal Kulkarni",
   "license": "ISC",
   "devDependencies": {
+    "@rollup/plugin-typescript": "^12.1.1",
+    "rollup": "^4.27.4",
     "typescript": "^5.7.2"
   },
   "dependencies": {
